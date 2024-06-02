@@ -10,6 +10,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddScoped<IPdfService, PdfModel>();
 builder.Services.AddScoped<ITempDataService, TempDataService>();
+builder.Services.AddScoped<IEmailService, EmailService>();  // registro do serviço de e-mail
 builder.Services.AddHttpContextAccessor();
 
 
@@ -25,9 +26,12 @@ builder.Services.AddControllersWithViews();
 var app = builder.Build();
 
 
+
+
 GlobalFontSettings.FontResolver = new CustomFontResolver();
 
 // Configure the HTTP request pipeline.
+
 if (app.Environment.IsDevelopment())
 {
     app.UseMigrationsEndPoint();

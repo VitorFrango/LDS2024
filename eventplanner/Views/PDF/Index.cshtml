@@ -22,17 +22,17 @@
     <div class="container">
         <div class="pdf-form card p-4">
             <h2 class="text-center">Gerar bilhete em PDF</h2>
-        <div class="error-list">
-            @if (!ViewData.ModelState.IsValid)
-            {
-                <ul class="error-list">
-                    @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
-                    {
-                        <li>@error.ErrorMessage</li>
-                    }
-                </ul>
-            }
-        </div>
+            <div class="error-list">
+                @if (!ViewData.ModelState.IsValid)
+                {
+                    <ul class="error-list">
+                        @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+                        {
+                            <li>@error.ErrorMessage</li>
+                        }
+                    </ul>
+                }
+            </div>
             <form id="mainForm" method="post" action="/PDF/CriarPDF" novalidate>
                 <div class="form-group">
                     <label for="nome">Nome:</label>
@@ -70,6 +70,8 @@
                 <input type="hidden" id="fontName" name="FontName" value="@Model.FontName" />
 
                 <button type="submit" class="btn btn-primary">Criar Bilhete PDF</button>
+                <!-- Novo botão para enviar email -->
+                <button type="button" id="sendEmailButton" class="btn btn-secondary">Enviar Bilhete por Email</button>
             </form>
         </div>
     </div>
@@ -145,6 +147,33 @@
                 });
                 errorHtml += '</ul>';
                 $('.error-list').html(errorHtml).show();
+            }
+        });
+
+        // Lógica para enviar e-mail
+        $('#sendEmailButton').on('click', function () {
+            var nome = $('#nome').val().trim();
+            var espetaculo = $('#espetaculo').val();
+            var lugar = $('#lugar').val();
+
+            if (nome && espetaculo && lugar) {
+                $.ajax({
+                    url: '/Email/Send',
+                    method: 'POST',
+                    data: {
+                        Nome: nome,
+                        Espetaculo: espetaculo,
+                        Lugar: lugar
+                    },
+                    success: function (response) {
+                        alert('Email enviado com sucesso!');
+                    },
+                    error: function (xhr, status, error) {
+                        alert('Erro ao enviar email: ' + xhr.responseText);
+                    }
+                });
+            } else {
+                alert('Por favor, preencha todos os campos antes de enviar o email.');
             }
         });
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OuL9WSEew+3ma4DydmjgOyXpJUhaHKhp5z3XX9BOXqHGdu3pWSKDCx1VLKMQP2vSqzHgc5hkwPj/MllKnMjhUQ==",
+  "dgSpecHash": "9vVLSqdWLCkMcE1o6lZTYWcTdefT0W3/VVYqjbUwNBk4vFUu1PsquToGYhaUtOsIAS5217TJlNReC4i2/9EZ3A==",
   "success": true,
-  "projectFilePath": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/eventplanner.csproj",
+  "projectFilePath": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/eventplanner.csproj",
   "expectedPackageFiles": [
     "/Users/vitorfrango/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/vitorfrango/.nuget/packages/microsoft.aspnetcore.cryptography.internal/7.0.17/microsoft.aspnetcore.cryptography.internal.7.0.17.nupkg.sha512",

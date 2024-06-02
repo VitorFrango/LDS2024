@@ -1,171 +1,171 @@
 {
   "Files": [
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/Fonts/Helvetica-Bold.ttf",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/Fonts/Helvetica-Bold.ttf",
       "PackagePath": "staticwebassets/Fonts/Helvetica-Bold.ttf"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/Fonts/Helvetica-Italic.ttf",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/Fonts/Helvetica-Italic.ttf",
       "PackagePath": "staticwebassets/Fonts/Helvetica-Italic.ttf"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/Fonts/Helvetica-Regular.ttf",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/Fonts/Helvetica-Regular.ttf",
       "PackagePath": "staticwebassets/Fonts/Helvetica-Regular.ttf"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/Fonts/Roboto-Bold.ttf",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/Fonts/Roboto-Bold.ttf",
       "PackagePath": "staticwebassets/Fonts/Roboto-Bold.ttf"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/Fonts/Roboto-Italic.ttf",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/Fonts/Roboto-Italic.ttf",
       "PackagePath": "staticwebassets/Fonts/Roboto-Italic.ttf"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/Fonts/Roboto-Regular.ttf",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/Fonts/Roboto-Regular.ttf",
       "PackagePath": "staticwebassets/Fonts/Roboto-Regular.ttf"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/Fonts/Sedan-Italic.ttf",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/Fonts/Sedan-Italic.ttf",
       "PackagePath": "staticwebassets/Fonts/Sedan-Italic.ttf"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/Fonts/Sedan-Regular.ttf",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/Fonts/Sedan-Regular.ttf",
       "PackagePath": "staticwebassets/Fonts/Sedan-Regular.ttf"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/css/site.css",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/favicon.ico",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/images/logo.png",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/images/logo.png",
       "PackagePath": "staticwebassets/images/logo.png"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/lib/bootstrap/LICENSE",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/lib/bootstrap/LICENSE",
       "PackagePath": "staticwebassets/lib/bootstrap"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/lib/jquery-validation/LICENSE.md",
       "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/lib/jquery/LICENSE.txt",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/lib/jquery/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/tiles/14_7774_6277.png",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/tiles/14_7774_6277.png",
       "PackagePath": "staticwebassets/tiles/14_7774_6277.png"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/tiles/14_7774_6278.png",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/tiles/14_7774_6278.png",
       "PackagePath": "staticwebassets/tiles/14_7774_6278.png"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/tiles/14_7774_6279.png",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/tiles/14_7774_6279.png",
       "PackagePath": "staticwebassets/tiles/14_7774_6279.png"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/tiles/14_7775_6277.png",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/tiles/14_7775_6277.png",
       "PackagePath": "staticwebassets/tiles/14_7775_6277.png"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/tiles/14_7775_6278.png",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/tiles/14_7775_6278.png",
       "PackagePath": "staticwebassets/tiles/14_7775_6278.png"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/tiles/14_7775_6279.png",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/tiles/14_7775_6279.png",
       "PackagePath": "staticwebassets/tiles/14_7775_6279.png"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/tiles/14_7776_6277.png",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/tiles/14_7776_6277.png",
       "PackagePath": "staticwebassets/tiles/14_7776_6277.png"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/tiles/14_7776_6278.png",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/tiles/14_7776_6278.png",
       "PackagePath": "staticwebassets/tiles/14_7776_6278.png"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/tiles/14_7776_6279.png",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/tiles/14_7776_6279.png",
       "PackagePath": "staticwebassets/tiles/14_7776_6279.png"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/tiles/15_15550_12555.png",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/tiles/15_15550_12555.png",
       "PackagePath": "staticwebassets/tiles/15_15550_12555.png"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/tiles/15_15550_12556.png",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/tiles/15_15550_12556.png",
       "PackagePath": "staticwebassets/tiles/15_15550_12556.png"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/tiles/15_15550_12557.png",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/tiles/15_15550_12557.png",
       "PackagePath": "staticwebassets/tiles/15_15550_12557.png"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/tiles/15_15551_12555.png",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/tiles/15_15551_12555.png",
       "PackagePath": "staticwebassets/tiles/15_15551_12555.png"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/tiles/15_15551_12556.png",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/tiles/15_15551_12556.png",
       "PackagePath": "staticwebassets/tiles/15_15551_12556.png"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/tiles/15_15551_12557.png",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/tiles/15_15551_12557.png",
       "PackagePath": "staticwebassets/tiles/15_15551_12557.png"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/tiles/15_15552_12557.png",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/tiles/15_15552_12557.png",
       "PackagePath": "staticwebassets/tiles/15_15552_12557.png"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/tiles/16_31100_25112.png",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/tiles/16_31100_25112.png",
       "PackagePath": "staticwebassets/tiles/16_31100_25112.png"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/tiles/16_31100_25113.png",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/tiles/16_31100_25113.png",
       "PackagePath": "staticwebassets/tiles/16_31100_25113.png"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/tiles/16_31100_25114.png",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/tiles/16_31100_25114.png",
       "PackagePath": "staticwebassets/tiles/16_31100_25114.png"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/tiles/16_31101_25111.png",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/tiles/16_31101_25111.png",
       "PackagePath": "staticwebassets/tiles/16_31101_25111.png"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/tiles/16_31101_25112.png",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/tiles/16_31101_25112.png",
       "PackagePath": "staticwebassets/tiles/16_31101_25112.png"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/tiles/16_31101_25113.png",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/tiles/16_31101_25113.png",
       "PackagePath": "staticwebassets/tiles/16_31101_25113.png"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/tiles/16_31101_25114.png",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/tiles/16_31101_25114.png",
       "PackagePath": "staticwebassets/tiles/16_31101_25114.png"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/tiles/16_31101_25115.png",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/tiles/16_31101_25115.png",
       "PackagePath": "staticwebassets/tiles/16_31101_25115.png"
     },
     {
-      "Id": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/wwwroot/tiles/tilesUrls.txt",
+      "Id": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/wwwroot/tiles/tilesUrls.txt",
       "PackagePath": "staticwebassets/tiles/tilesUrls.txt"
     },
     {

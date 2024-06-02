@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/eventplanner.csproj": {}
+    "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/eventplanner.csproj": {}
   },
   "projects": {
-    "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/eventplanner.csproj": {
+    "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/eventplanner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/eventplanner.csproj",
+        "projectUniqueName": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/eventplanner.csproj",
         "projectName": "eventplanner",
-        "projectPath": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/eventplanner.csproj",
+        "projectPath": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/eventplanner.csproj",
         "packagesPath": "/Users/vitorfrango/.nuget/packages/",
-        "outputPath": "/Users/vitorfrango/Downloads/CodigoAplicacao_Equipa10/eventplanner/obj/",
+        "outputPath": "/Users/vitorfrango/Library/CloudStorage/OneDrive-Personal/programacao/21179LDS/eventplanner/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/vitorfrango/.nuget/NuGet/NuGet.Config"
